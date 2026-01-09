@@ -1,5 +1,160 @@
-/* Основные стили проекта. Это стили для темы, которую вы верстаете первой. */
-
 .page {
-  /* сохраните в разметке и стилях класс page у тега body. Он удобен, чтобы составлять селекторы для разных цветовых тем. */
 }
+
+
+.header {
+}
+
+.decorated-zone {
+}
+
+.decorative-rec-icon {
+}
+
+.header__theme-menu {
+}
+
+.header__theme-menu-list {
+}
+
+.header__theme-menu-item {
+}
+
+.header__theme-menu-button {
+}
+
+/* модификаторы кнопок темы */
+.header__theme-menu-button_type_light {
+}
+
+.header__theme-menu-button_type_auto {
+}
+
+.header__theme-menu-button_type_dark {
+}
+
+.header__theme-menu-button_active {
+}
+
+
+.header__heading {
+}
+
+.header__text {
+}
+
+
+.accented-shadow-text {
+}
+
+.accented-background {
+}
+
+.accented-text {
+}
+
+.accented-text_bold {
+}
+
+.accented-link {
+}
+
+.h2-heading {
+}
+
+.paragraph-text {
+}
+
+
+.why {
+}
+
+.why__heading {
+}
+
+.why__list {
+}
+
+.why__list-item {
+}
+
+.why__list-title {
+}
+
+.why__list-text {
+}
+
+
+.what {
+}
+
+.what__heading {
+}
+
+.what__list {
+}
+
+.what__list-item {
+}
+
+.what__list-title {
+}
+
+.what__list-text {
+}
+
+
+.how {
+}
+
+.how__heading {
+}
+
+.how__list-container {
+}
+
+.how__list-heading {
+}
+
+.how__list {
+}
+
+.how__list-item {
+}
+
+.how__list-title {
+}
+
+.how__list-text {
+}
+
+
+.gallery {
+}
+
+.gallery__heading {
+}
+
+.gallery__list {
+}
+
+.gallery__list-item {
+}
+
+.gallery__img {
+}
+
+
+.footer {
+}
+
+.footer__text {
+}
+
+
+@media (max-width: 1024px) {
+}
+
+@media (max-width: 768px) {
+}
+
