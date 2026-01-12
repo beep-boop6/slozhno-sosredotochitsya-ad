@@ -11,3 +11,16 @@
     --accent-heading-fs-mobile: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
     --accent-heading-fs-desktop: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
 }
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg-color: #000028;
+        --text-color: #F1B2CE;
+        --heading-color: #FF0070;
+        --accent-color: #FF0070;
+        --accent-heading-color: #DB00FF;
+        --title-decor-color: #000028;
+        --cover-image: url(../images/cover-image-dark.png);
+        --button-hover-color: rgba(255, 0, 112, 0.4);
+    }
+}
