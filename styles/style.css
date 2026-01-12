@@ -179,7 +179,8 @@
 
 
 main {
-    padding: 10px;
+    padding-inline: 10px;
+    padding-block-end: 10px;
     background-color: var(--bg-color);
 }
 
@@ -308,7 +309,8 @@ main {
     align-items: center;
     min-block-size: 100vh;
     margin-block-start: 40px;
-    padding: 10px;
+    padding-inline: 10px;
+    padding-block-end: 10px;
     position: relative;
     background-color: var(--bg-color);
 }
@@ -325,11 +327,13 @@ main {
     }
 
     main {
-        padding: 20px;
+        padding-inline: 20px;
+        padding-block-end: 20px;
     }
 
     .footer {
-        padding: 20px;
+        padding-inline: 20px;
+        padding-block-end: 20px;
     }
 
     .header__heading {
@@ -415,7 +419,6 @@ main {
 
     .footer {
         margin-block-start: 60px;
-        padding: 20px;
     }
 }
 
