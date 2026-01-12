@@ -334,6 +334,7 @@ main {
     .footer {
         padding-inline: 20px;
         padding-block-end: 20px;
+        margin-block-start: 60px;
     }
 
     .header__heading {
@@ -417,9 +418,6 @@ main {
         grid-column: span 2;
     }
 
-    .footer {
-        margin-block-start: 60px;
-    }
 }
 
 
