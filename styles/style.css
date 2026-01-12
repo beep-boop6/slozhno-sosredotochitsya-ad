@@ -22,7 +22,6 @@
 
 .decorated-zone {
     position: relative;
-    min-block-size: 97vh;
 }
 
 .decorated-zone::before {
